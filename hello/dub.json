@@ -1,0 +1,9 @@
+{
+	"name": "hello",
+	"authors": [
+		"sksat"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2018, sksat",
+	"license": "MIT"
+}
